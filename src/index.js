@@ -25,7 +25,7 @@ class B extends Person {
     console.log(`${this.name} do something B`)
   }
 }
-let a1 = new A('xu');
+let a1 = new A('xu三生三世');
 let b1 = new B('wmmmr');
 a1.doSomething();
 b1.doSomething();
