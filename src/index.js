@@ -26,6 +26,6 @@ class B extends Person {
   }
 }
 let a1 = new A('路飞');
-let b1 = new B('索隆啊啊');
+let b1 = new B('索隆啊啊少时诵诗书');
 a1.doSomething();
 b1.doSomething();
